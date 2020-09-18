@@ -19,7 +19,7 @@ body{
 #cabecalho{
     margin-left: 0%;
     display: inline-block;
-    background: url(/images/fpadrao-desktop.png);
+    background: url(fpadrao-desktop.png);
     background-size: 100%;
     background-attachment: scroll;
     background-repeat: no-repeat;
@@ -30,7 +30,7 @@ body{
 }
 
 #menu-content{
-    background: url(/images/fotoslider-desktop.png);
+    background: url(fotoslider-desktop.png);
     background-position: bottom left;
     margin-top: 0.3%;
 }
